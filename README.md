@@ -7,7 +7,12 @@ React project done doing this course [https://www.udemy.com/aprendiendo-react](h
 This project is a simple web app to search movies using [omdb api](http://www.omdbapi.com/).
 
 ### Running the App
-Launch this command:
+Install dependencies:
+```
+npm install
+```
+
+then, run this command:
 ```
 npm start
 ```
