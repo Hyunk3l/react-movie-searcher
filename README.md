@@ -1,6 +1,6 @@
 # React Movie searcher
 
-
+![Movie Searcher](https://github.com/{user}/{repo}/raw/master/docs/movie-searcher-v1.gif)
 
 ## Description
 React project done doing this course [https://www.udemy.com/aprendiendo-react](https://www.udemy.com/aprendiendo-react)
